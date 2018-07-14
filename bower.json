@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "authors": [
+    "beeMonkey <675383749@qq.com>"
+  ],
+  "description": "a resume use bootstrap",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true
+}
